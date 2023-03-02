@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-family: 'Phudu', cursive;
+    font-size: 72px;
+    color:slategrey;
+    letter-spacing: 3px;
+    text-shadow: -1px -1px 1px rgb(70, 70, 70), 1px 1px 1px rgb(70, 70, 70), -1px 1px 1px rgb(70, 70, 70), 1px -1px 1px rgb(70, 70, 70);
+}
+
+.img{
+    display: block;
+    justify-content: center;
+    position: relative;
+    margin: -6px 6px 6px -6px;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    font-family: 'Phudu', cursive;
+    font-size: 27px;
+    letter-spacing: 2px;
+    text-shadow: -1px -1px 1px rgb(85, 85, 85), 1px 1px 1px rgb(85, 85, 85), -1px 1px 1px rgb(85, 85, 85), 1px -1px 1px rgb(85, 85, 85);
+}
+
+body{
+    background-color: rgb(196, 196, 196);
+}
